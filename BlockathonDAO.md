@@ -1,4 +1,9 @@
-https://dorg.tech/0x16B788AfFD53d5fCc2881C8DcEE3E2221C0DaC22
+Link for deployment in dOrg DAO launcher
+
+- https://dorg.tech/0x16B788AfFD53d5fCc2881C8DcEE3E2221C0DaC22
+
+Here is copy code:
+
 
 {
   "arcVersion": "0.0.1-rc.33",
